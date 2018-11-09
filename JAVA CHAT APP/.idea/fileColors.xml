@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SharedFileColors">
+    <fileColor scope="All" color="Orange" />
+    <fileColor scope="Android Instrumented Tests" color="Yellow" />
+    <fileColor scope="Non-Project Files" color="Yellow" />
+    <fileColor scope="Local Unit Tests" color="Green" />
+  </component>
+</project>
